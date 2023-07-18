@@ -14,9 +14,9 @@
     
     .botones li a{
     
-    background-color: rgb(142, 84, 196);
+    background-color: rgb(5, 247, 247);
     
-    color: rgb(88, 190, 204);
+    color: rgb(0, 0, 0);
     
     text-decoration: none;
     
@@ -71,9 +71,7 @@
     width:100%;
     
     height: 150px;
-    font-size: 40px;
-     text-align: center;
-    color: aqua;
+    
+     
+    
     }
-    
-    
