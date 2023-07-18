@@ -12,19 +12,25 @@
     
     body{
     
-    background-image: url("antioquia.jpg");
+    background-image: url("lunaynayi.jpg");
     
     background-repeat: no-repeat;
     
     }
+    fondo tecnologia{
     
+        background-image: url("lunaynayi.jpg");
+        
+        background-repeat: no-repeat;
+        
+        }
     
     
     .img{
     
     position: relative;
     
-     top: 100px;
+     
     
     width: 190px;
     
@@ -34,11 +40,12 @@
     
     background-repeat: no-repeat;
     
-     
+     top: 1px;
     
-    left: 180px;
+    left: 1150px;
+
     
-    background-image: url("descarga.png");
+    background-image: url("luinayi.jpg");
     
     }
     
@@ -46,7 +53,7 @@
     
      
     
-    height: 100px;
+    height: 230px;
     
      
     
@@ -54,13 +61,64 @@
     
     .texto{
     
-    font-size: 40px;
+    font-size: 30px;
     
     text-align: justify;
     
     color: brown;
+
+    top: 200px;
+     
+    
+    }
+    
+    
+.contenido{
+
+    height: 200px;
+    width: 100%;
+    
+    position: absolute;
+    
+    top: 310px;
     
      
+    
+    }
+    
+     
+    
+    .imagentecno{
+    
+     
+    
+    background-repeat: no-repeat;
+    
+    float:right; 
+    
+    height: 200px;
+    
+    width: 260px;
+    
+    margin-left: 5px;
+    
+    margin-right:5px;
+    
+    background-image: url("medellin.jpeg");
+    
+    }
+    
+    
+    
+    .textotecno{
+    
+    text-align: justify;
+    
+    color: rgb(11, 147, 147);
+    
+    font-size: 25px;
+    
+    
     
     }
     
