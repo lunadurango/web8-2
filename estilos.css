@@ -12,14 +12,15 @@
     
     body{
     
-    background-image: url("antioquia.jpg");
+    background-image: url("California_fall_McWay_Pacific_Ocean-110199.jpg!d");
     
     background-repeat: no-repeat;
+    background-size: cover;
     
     }
     fondo tecnologia{
     
-        background-image: url("antioquia.jpg");
+        background-image: url("th\ \(1\).jpg");
         
         background-repeat: no-repeat;
         
@@ -29,24 +30,24 @@
     .img{
     
     position: relative;
-    
+    top: 1px;
      
     
-    width: 100%;
+    width: 200%;
     
-    height: 190px;
+    height: 200px;
     
     border-radius: 10px;
     
     background-repeat: no-repeat;
     
-     top: 1px;
+     
     
-    left: 1150px;
+    left: 180px;
 
     
-    background-image: url("luinayi.jpg");
-    
+    background-image: url("");
+    background-size: contain;
     }
     
     .contenedor{
@@ -104,7 +105,7 @@
     
     margin-right:5px;
     
-    background-image: url("medellin.jpeg");
+    background-image: url("");
     
     }
     
