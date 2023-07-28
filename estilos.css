@@ -33,7 +33,7 @@
     top: 1px;
      
     
-    width: 200%;
+    width: 300%;
     
     height: 200px;
     
@@ -130,9 +130,9 @@
         
         float:right; 
         
-        height: 200px;
+        height: 250px;
         
-        width: 260px;
+        width: 300px;
         
         margin-left: 5px;
         
@@ -148,11 +148,46 @@
         
         text-align: justify;
         
-        color: rgb(233, 235, 235);
+        color: rgb(255, 253, 253);
         
-        font-size: 15px;
+        font-size: 16px;
         
         
         
         }
+    
+    .imagenbiologia2{
+    
+     
+    
+        background-repeat: no-repeat;
+        
+        float:right; 
+        
+        height: 250px;
+        
+        width: 300px;
+        
+        margin-left: 5px;
+        
+        margin-right:5px;
+        
+        background-image: url("th\ \(2\).jpg");
+        
+        }
+        
+        
+        
+        .textobiologia2{
+        
+        text-align: justify;
+        
+        color: rgb(255, 253, 253);
+        
+        font-size: 22px;
+        
+        
+        
+        }
+    
     
