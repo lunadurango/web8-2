@@ -12,7 +12,7 @@
     
     body{
     
-    background-image: url("California_fall_McWay_Pacific_Ocean-110199.jpg!d");
+    background-image: url("th.jpg");
     
     background-repeat: no-repeat;
     background-size: cover;
@@ -20,7 +20,7 @@
     }
     fondo tecnologia{
     
-        background-image: url("th\ \(1\).jpg");
+        background-image: url("");
         
         background-repeat: no-repeat;
         
@@ -122,4 +122,37 @@
     
     
     }
+    .imagenbiologia{
+    
+     
+    
+        background-repeat: no-repeat;
+        
+        float:right; 
+        
+        height: 200px;
+        
+        width: 260px;
+        
+        margin-left: 5px;
+        
+        margin-right:5px;
+        
+        background-image: url("th\ \(1\).jpg");
+        
+        }
+        
+        
+        
+        .textobiologia{
+        
+        text-align: justify;
+        
+        color: rgb(233, 235, 235);
+        
+        font-size: 15px;
+        
+        
+        
+        }
     
