@@ -1,0 +1,370 @@
+*{
+
+    padding: 0px;
+    
+    margin: 0px;
+    
+    }
+    
+    
+    
+    
+    body{
+    
+    background-image: url("fondo.jpg");
+    
+    background-repeat: no-repeat;
+    
+    }
+    
+    .fondotecnologia{
+    
+        background-image: url("tecnologia\ 2.gif");
+        
+        background-repeat: repeat;
+        
+        }
+    
+    .img{
+    
+    position: relative;
+    
+     
+    
+    width: 190px;
+    
+    height: 190px;
+    
+    border-radius: 10px;
+    
+    background-repeat: no-repeat;
+    
+     
+    
+    left: 180px;
+    
+    background-image: url("fondo.jpg");
+    
+    }
+    
+    .contenedor{
+    
+     
+    
+    height: 230px;
+    
+     
+    
+    }
+    
+    .texto{
+    
+    font-size: 40px;
+    
+    text-align: justify;
+    
+    color: brown;
+    
+     
+    
+    }
+    
+
+    .contenido{
+
+        height: 200px;
+        
+        width: 100%;
+        
+        position: absolute;
+        
+        top: 316px;
+        
+         
+        
+        }
+        
+         
+        
+        .imajensociales{
+        
+         
+        
+        background-repeat: no-repeat;
+        
+        float:left;
+        
+        height: 200px;
+        
+        width: 260px;
+        
+        margin-left: 5px;
+        
+        margin-right:5px;
+        
+        background-image: url("sociales.jpg");
+        
+        }
+        
+        
+        
+        .textosociales{
+        
+        text-align: justify;
+        
+        color: rgb(0, 0, 0);
+        
+        font-size: 20px;
+        
+        
+        
+        }
+        .contenido{
+
+            height: 280px;
+            
+            width: 100%;
+            
+            position: absolute;
+            
+            top: 310px;
+            
+             
+            
+            }
+            
+             
+            
+            .imagenbiologia{
+            
+             
+            
+            background-repeat: no-repeat;
+            
+            float:left;
+            
+            height: 210px;
+            
+            width: 270px;
+            
+            margin-left: 5px;
+            
+            margin-right:5px;
+            
+            background-image: url("biologia.jpg");
+            
+            }
+            
+            
+            
+            .textobiologia{
+            
+            text-align: justify;
+            
+            color: rgb(255, 255, 255);
+            
+            font-size: 20px;
+            
+            
+            
+            }
+            .contenido{
+
+                height: 280px;
+                
+                width: 100%;
+                
+                position: absolute;
+                
+                top: 250px;
+                
+                 
+                
+                }
+                
+                 
+                
+                .imagenmatematicas{
+                
+                 
+                
+                background-repeat: no-repeat;
+                
+                float:left;
+                
+                height: 200px;
+                
+                width: 260px;
+                
+                margin-left: 5px;
+                
+                margin-right:5px;
+                
+                background-image: url("matematicas.jpg");
+                
+                }
+                
+            
+                .textomatematicas{
+                
+                text-align: justify;
+                
+                color: rgb(122, 216, 93);
+                
+                font-size: 25px;
+                
+                
+                 }
+
+                 .contenido{
+
+                    height: 280px;
+                    
+                    width: 100%;
+                    
+                    position: absolute;
+                    
+                    top: 250px;
+                    
+                     
+                    
+                    }
+                    
+                     
+                    
+                .imagenreligion{
+                    
+                     
+                    
+                    background-repeat: no-repeat;
+                    
+                    float:left;
+                    
+                    height: 800px;
+                    
+                    width: 800px;
+                    
+                    margin-left: 10px;
+                    
+                    margin-right:10px;
+                    
+                    background-image: url("religion.webp");
+                    
+                    }
+                    
+                    
+                    
+                .textoreligion{
+                    
+                    text-align: justify;
+                    
+                    color: rgb(245, 0, 224);
+                    
+                    font-size: 20px;
+                    
+                    }
+
+                    .contenido{
+
+                        height: 280px;
+                        
+                        width: 100%;
+                        
+                        position: absolute;
+                        
+                        top: 300px;
+                        
+                         
+                        
+                        }
+                        
+                         
+                        
+                    .imageningles{
+                        
+                         
+                        
+                        background-repeat: no-repeat;
+                        
+                        float:left;
+                        
+                        height: 200px;
+                        
+                        width: 260px;
+                        
+                        margin-left: 5px;
+                        
+                        margin-right:5px;
+                        
+                        background-image: url("ingles.jpg");
+                        
+                        }
+                        
+                        
+                        
+                    .textoingles{
+                        
+                        text-align: justify;
+                        
+                        color: azure;
+                        
+                        font-size: 20px;
+                        
+                        
+                        
+                        }
+
+                        .contenido{
+
+                            height: 280px;
+                            
+                            width: 100%;
+                            
+                            position: absolute;
+                            
+                            top: 300px;
+                            
+                             
+                            
+                            }
+                            
+                             
+                            
+                        .imagentecnologia{
+                            
+                             
+                            
+                            background-repeat: no-repeat;
+                            
+                            float:left;
+                            
+                            height: 200px;
+                            
+                            width: 260px;
+                            
+                            margin-left: 5px;
+                            
+                            margin-right:5px;
+                            
+                            background-image: url("tecnologia.png");
+
+                            
+                            }
+                            
+                            
+                            
+                        .textotecnologia{
+                            
+                            text-align: justify;
+                            
+                            color: rgb(0, 255, 21);
+                            
+                            font-size: 20px;
+                            
+                            
+                            
+                            }
+                            
+                
+            
+        
